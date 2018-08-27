@@ -1,6 +1,12 @@
 # Compiled class file
 *.class
 
+# artifacts from diverse IDEs
+.idea
+*.iml
+*.ipr
+*.iws
+
 # Log file
 *.log
 
